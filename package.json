@@ -1,0 +1,25 @@
+{
+  "name": "3.12-activity-rev1",
+  "version": "1.0.0",
+  "description": "serverless-activity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mha47/3.12-activity-rev1.git"
+  },
+  "author": "Mha47",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mha47/3.12-activity-rev1/issues"
+  },
+  "homepage": "https://github.com/Mha47/3.12-activity-rev1#readme",
+  "dependencies": {
+    "serverless": "^3.36.0"
+  },
+  "devDependencies": {
+    "serverless-offline": "^13.2.1"
+  }
+}
